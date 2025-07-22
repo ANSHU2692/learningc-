@@ -5,50 +5,50 @@ using namespace std;
 
 
 // int main(){
-    // int marks[] = {1,2,3};
-    // cout<< marks[0] <<"\n";
-    // cout<< marks[1] <<"\n";
-    // cout<< marks[2] <<"\n";
-    // cout<< marks[3] <<"\n";
-    // cout<< marks[4] <<"\n";
-    // cout<< marks[5] <<"\n";
-    // int n;
-    // cout<<"Enter length  of array:";
-    // cin>>n;
-    // int arr [n] ;
-    // // int n =sizeof(arr)/sizeof(int);
-    // for(int i=0 ; i<n ; i++){
-    //  cin>> arr[i];
-    // }
-    // for(int i=0 ; i<n ; i++){
-    //  cout<< arr[i] <<"|";
-    // }
-    //        largest and smallest element in an array
-    // int n;
-    // cout<<"enter length of array:";
-    // cin>>n;
-    // int arr[n];
-    // for(int i=0;i<n;i++){
-    //     cin>>arr[i];
-    // }
-    // for(int i=0;i<n;i++){
-    //     cout<<arr[i]<<" ";
-    // }
-    // cout<<"\n";
-    // int max = arr[0];
-    // int min = arr[0];
-    // for(int i=0;i<n;i++){
-    //     if(max<arr[i]){
-    //         max=arr[i];
-    //     }
-    // }
-    //   for(int i=0;i<n;i++){
-    //     if(min>arr[i]){
-    //         min=arr[i];
-    //     }
-    // }
-    // cout<<"largest "<<max<<"\n";
-    // cout<<"smallest "<<min<<"\n";
+//     int marks[] = {1,2,3};
+//     cout<< marks[0] <<"\n";
+//     cout<< marks[1] <<"\n";
+//     cout<< marks[2] <<"\n";
+//     cout<< marks[3] <<"\n";
+//     cout<< marks[4] <<"\n";
+//     cout<< marks[5] <<"\n";
+//     int n;
+//     cout<<"Enter length  of array:";
+//     cin>>n;
+//     int arr [n] ;
+//     // int n =sizeof(arr)/sizeof(int);
+//     for(int i=0 ; i<n ; i++){
+//      cin>> arr[i];
+//     }
+//     for(int i=0 ; i<n ; i++){
+//      cout<< arr[i] <<"|";
+//     }
+//            largest and smallest element in an array
+//     int n;
+//     cout<<"enter length of array:";
+//     cin>>n;
+//     int arr[n];
+//     for(int i=0;i<n;i++){
+//         cin>>arr[i];
+//     }
+//     for(int i=0;i<n;i++){
+//         cout<<arr[i]<<" ";
+//     }
+//     cout<<"\n";
+//     int max = arr[0];
+//     int min = arr[0];
+//     for(int i=0;i<n;i++){
+//         if(max<arr[i]){
+//             max=arr[i];
+//         }
+//     }
+//       for(int i=0;i<n;i++){
+//         if(min>arr[i]){
+//             min=arr[i];
+//         }
+//     }
+//     cout<<"largest "<<max<<"\n";
+//     cout<<"smallest "<<min<<"\n";
 //     return 0;
 // }
 
@@ -387,7 +387,7 @@ using namespace std;
 
 
 
-//solve practise questions after vectors chapter q1 q2 q3 
+// solve practise questions after vectors chapter q1 q2 q3 
 
 
 
