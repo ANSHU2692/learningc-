@@ -192,31 +192,7 @@ using namespace std;
 //     return 0;
 // }
 
-// bool operswap(string str1,string str2){
-//     int n=str2.length();
-   
-//     // Try all pairs (i, j) for a possible swap
-//     for (int i = 0; i < n; ++i) {
-//         for (int j = i; j < n; ++j) {
-//             swap(str2[i], str2[j]); // Swap
-//             if (str2 == str1) return true; // Check match
-//             swap(str2[i], str2[j]); // Undo swap
-//         }
-    
 
-//     return false;
-//     }
-// }
-// int main(){
-//     string str1="bank";
-//     string str2="kanb";
-//     if (operswap(str1, str2))
-//         cout << "true\n";
-//     else
-//         cout << "false\n";
-
-//     return 0;
-// }
 
 
 
@@ -273,5 +249,5 @@ using namespace std;
 
 
 
-
+ 
 
