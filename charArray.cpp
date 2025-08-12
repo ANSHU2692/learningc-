@@ -1,6 +1,8 @@
 #include<iostream>
 #include <cstring>
 #include <string>
+#include<vector>
+#include<algorithm>
 
 using namespace std;
 
@@ -244,9 +246,36 @@ using namespace std;
 //     }
 
 //     return 0;
+
+
+
+// trying question
+//form assignment
+
+// bool countArr(vector<int> arr){
+//     int maxVal = *max_element(arr.begin(), arr.end());
+//     vector<int> count(maxVal + 1, 0);
+
+
+//     for(int i=0;i<arr.size();i++){
+//         count[arr[i]]++;
+//          if(count[arr[i]]>1){
+//             return true;
+//         }
+//     }
+ 
+//     return false;
+
+
 // }
 
+// int main(){
+//     vector<int> vec={1,1,1,1,2,2,3,4,4};
+//     bool ans = countArr(vec);
+//     cout<<ans;
 
+//     return 0;
+// }
 
 
  
